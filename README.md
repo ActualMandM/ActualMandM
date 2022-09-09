@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am M&M, a game modder and learning programmer. I have created mods for games such as [Sonic Generations](https://gamebanana.com/games/6059) and [Project DIVA Mega Mix+](https://gamebanana.com/games/16522). I am also a developer for [Team TBD](https://twitter.com/SirDusterBuster/status/1533134688126128130) and one of it's FNF mods [Doki Doki Takeover!](https://gamebanana.com/mods/47364), alongside its Plus content update and [BAD ENDING](https://gamebanana.com/mods/386603).
+I am M&M, a game modder and learning programmer. I have created mods for games such as [Sonic Generations](https://gamebanana.com/games/6059) and [Project DIVA Mega Mix+](https://gamebanana.com/games/16522). I am also a programmer for [Team TBD](https://twitter.com/SirDusterBuster/status/1533134688126128130) and one of it's FNF mods [Doki Doki Takeover!](https://gamebanana.com/mods/47364), alongside its Plus content update and [BAD ENDING](https://gamebanana.com/mods/386603).
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ActualMandM&hide=commits&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
