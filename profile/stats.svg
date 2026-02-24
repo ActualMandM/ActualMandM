@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Clash's GitHub Stats, Rank: B+</title>
+        <title id="titleId">Clash's GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 56, Total PRs: 235, Total Issues: 228, Contributed to (last year): 17</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 95.31590793123328;
+        stroke-dashoffset: 90.57160703551622;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B+
+          A-
         </text>
       
         </g>
